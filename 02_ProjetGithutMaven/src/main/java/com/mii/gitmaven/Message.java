@@ -7,8 +7,8 @@ public class Message
 	private static String[] tbMessage = 
 		{
 				"Bonjour %%",
-				" Comment allez-vous % ?",
-				"ça va %",
+				" Comment allez-vous %% ?",
+				"ça va %%",
 				"Vous avez bonne mine, %%, aujourdhui !"
 		};
 	
